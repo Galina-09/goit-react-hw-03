@@ -1,0 +1,22 @@
+.formWrapper {
+  max-width: 320px;
+  width: 100%;
+  border: black solid 1px;
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+.formLabel {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.formBtn {
+  display: block;
+  margin: 0 auto;
+  height: 30px;
+  border: black solid 1px;
+}
+.error {
+  color: red;
+}
